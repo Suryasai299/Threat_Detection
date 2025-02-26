@@ -1,5 +1,5 @@
-# ML-MCS
-Machine Learning Driven Malware Classification System for Malware Analysis Hackathon (IIT-M) 2024
+# ML-TDS
+Machine Learning Driven Threat or Malware Detection System
 
 ## Overview
 A machine learning-based tool that classifies software as benign or malicious based on system usage metrics such as CPU usage, memory usage, and network activity.
@@ -15,7 +15,7 @@ A machine learning-based tool that classifies software as benign or malicious ba
 - **Models**: RandomForest, Gradient Boosting, XGBoost
 - **Libraries**: scikit-learn, pandas, XGBoost, Flask
 
-# ML-MCS
+# ML-TDS
 
 ## Installation
 
@@ -23,8 +23,8 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/adtyn-0/ML-MCS.git
-    cd ML-MCS
+    git clone https://github.com/Suryasai299/Threat_Detection.git
+    cd ML-TDS
     ```
 
 2. **Install dependencies:**
