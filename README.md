@@ -1,4 +1,4 @@
-# ML-TDS
+# MCS_ML
 Machine Learning Driven Threat or Malware Detection System
 
 ## Overview
@@ -24,7 +24,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Suryasai299/Threat_Detection.git
-    cd ML-TDS
+    cd MCS_ML
     ```
 
 2. **Install dependencies:**
