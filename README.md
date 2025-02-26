@@ -1,5 +1,5 @@
 # ML_TDS
-Machine Learning Driven Threat or Malware Detection System
+Machine Learning Driven Threat or Malware Detection System for the DEV Challenge Hackathon.
 
 ## Overview
 A machine learning-based tool that classifies software as benign or malicious based on system usage metrics such as CPU usage, memory usage, and network activity.
