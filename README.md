@@ -1,5 +1,5 @@
 # ML_TDS
-Machine Learning Driven Threat or Malware Detection System for the DEV Challenge Hackathon.
+Machine Learning Driven Threat or Malware Detection System.
 
 ## Overview
 A machine learning-based tool that classifies software as benign or malicious based on system usage metrics such as CPU usage, memory usage, and network activity.
@@ -26,6 +26,7 @@ Follow these steps to set up the project locally:
     git clone https://github.com/Suryasai299/Threat_Detection.git
     cd Threat_Detection
     cd MCS_ML
+    cd webapp
     ```
 
 2. **Install dependencies:**
